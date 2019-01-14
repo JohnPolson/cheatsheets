@@ -1,0 +1,1 @@
+A repository is a collection of code.
